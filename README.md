@@ -6,5 +6,7 @@
  -configurable database access  
  -run on a schedule every few days to keep things up to date  
   
-  ## Requirements
-Requires an existing mysql database to work currently. Locations & credentials are hard coded in the script.
+  ## Outputs
+  Configure the config.ini file to choose whether to output as csv or db (mysql database)
+  
+  (this code was heavily rewritten an no testing was conducted on mysql output)
