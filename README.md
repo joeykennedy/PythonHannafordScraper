@@ -9,4 +9,4 @@
   ## Outputs
   Configure the config.ini file to choose whether to output as csv or db (mysql database)
   
-  (this code was heavily rewritten an no testing was conducted on mysql output)
+  (this code was heavily rewritten and no testing was conducted on mysql output)
